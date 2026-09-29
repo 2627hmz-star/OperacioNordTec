@@ -2,7 +2,7 @@
 ## nivel_1**Hamza**
 ### nivel_2  _listas tech_ 
 
-# **LISTA_COMANDOS** 
+## **LISTA_COMANDOS** 
 
 • git init: Crea un repositorio nuevo de Git en tu carpeta actual.
 
