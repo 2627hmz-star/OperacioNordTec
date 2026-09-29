@@ -1,4 +1,4 @@
 # Operació NordTec
 ## **Hamza 
-##  * * listas tech
+##  * * listas tech 
 
